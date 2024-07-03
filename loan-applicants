@@ -1,0 +1,202 @@
+[
+  {
+    "applicant_id": 1,
+    "name": "John Doe",
+    "age": 35,
+    "income": 60000,
+    "credit_score": 720,
+    "loan_amount_requested": 10000,
+    "loan_term_months": 12,
+    "interest_rate": 5.25
+  },
+  {
+    "applicant_id": 2,
+    "name": "Jane Smith",
+    "age": 28,
+    "income": 50000,
+    "credit_score": 680,
+    "loan_amount_requested": 15000,
+    "loan_term_months": 24,
+    "interest_rate": 4.75
+  },
+  {
+    "applicant_id": 3,
+    "name": "Michael Johnson",
+    "age": 40,
+    "income": 80000,
+    "credit_score": 750,
+    "loan_amount_requested": 20000,
+    "loan_term_months": 36,
+    "interest_rate": 6.00
+  },
+  {
+    "applicant_id": 4,
+    "name": "Emily Brown",
+    "age": 32,
+    "income": 70000,
+    "credit_score": 700,
+    "loan_amount_requested": 12000,
+    "loan_term_months": 18,
+    "interest_rate": 5.50
+  },
+  {
+    "applicant_id": 5,
+    "name": "David Lee",
+    "age": 29,
+    "income": 55000,
+    "credit_score": 690,
+    "loan_amount_requested": 18000,
+    "loan_term_months": 24,
+    "interest_rate": 4.95
+  },
+  {
+    "applicant_id": 6,
+    "name": "Sarah Taylor",
+    "age": 31,
+    "income": 65000,
+    "credit_score": 710,
+    "loan_amount_requested": 25000,
+    "loan_term_months": 48,
+    "interest_rate": 6.25
+  },
+  {
+    "applicant_id": 7,
+    "name": "James Wilson",
+    "age": 36,
+    "income": 75000,
+    "credit_score": 730,
+    "loan_amount_requested": 30000,
+    "loan_term_months": 60,
+    "interest_rate": 7.00
+  },
+  {
+    "applicant_id": 8,
+    "name": "Emma Garcia",
+    "age": 27,
+    "income": 48000,
+    "credit_score": 670,
+    "loan_amount_requested": 10000,
+    "loan_term_months": 12,
+    "interest_rate": 4.50
+  },
+  {
+    "applicant_id": 9,
+    "name": "Daniel Martinez",
+    "age": 33,
+    "income": 72000,
+    "credit_score": 740,
+    "loan_amount_requested": 22000,
+    "loan_term_months": 36,
+    "interest_rate": 5.75
+  },
+  {
+    "applicant_id": 10,
+    "name": "Olivia Lopez",
+    "age": 30,
+    "income": 60000,
+    "credit_score": 700,
+    "loan_amount_requested": 15000,
+    "loan_term_months": 24,
+    "interest_rate": 5.00
+  },
+  {
+    "applicant_id": 11,
+    "name": "Noah King",
+    "age": 29,
+    "income": 58000,
+    "credit_score": 690,
+    "loan_amount_requested": 17000,
+    "loan_term_months": 30,
+    "interest_rate": 5.15
+  },
+  {
+    "applicant_id": 12,
+    "name": "Mia Hill",
+    "age": 34,
+    "income": 68000,
+    "credit_score": 720,
+    "loan_amount_requested": 25000,
+    "loan_term_months": 48,
+    "interest_rate": 6.50
+  },
+  {
+    "applicant_id": 13,
+    "name": "Lucas Scott",
+    "age": 32,
+    "income": 70000,
+    "credit_score": 730,
+    "loan_amount_requested": 28000,
+    "loan_term_months": 54,
+    "interest_rate": 6.75
+  },
+  {
+    "applicant_id": 14,
+    "name": "Ava Green",
+    "age": 26,
+    "income": 45000,
+    "credit_score": 660,
+    "loan_amount_requested": 12000,
+    "loan_term_months": 18,
+    "interest_rate": 4.75
+  },
+  {
+    "applicant_id": 15,
+    "name": "Logan Adams",
+    "age": 31,
+    "income": 62000,
+    "credit_score": 710,
+    "loan_amount_requested": 20000,
+    "loan_term_months": 36,
+    "interest_rate": 5.90
+  },
+  {
+    "applicant_id": 16,
+    "name": "Ella Baker",
+    "age": 28,
+    "income": 54000,
+    "credit_score": 680,
+    "loan_amount_requested": 16000,
+    "loan_term_months": 24,
+    "interest_rate": 5.25
+  },
+  {
+    "applicant_id": 17,
+    "name": "Benjamin Rivera",
+    "age": 35,
+    "income": 69000,
+    "credit_score": 720,
+    "loan_amount_requested": 23000,
+    "loan_term_months": 42,
+    "interest_rate": 6.10
+  },
+  {
+    "applicant_id": 18,
+    "name": "Victoria Cook",
+    "age": 29,
+    "income": 58000,
+    "credit_score": 690,
+    "loan_amount_requested": 18000,
+    "loan_term_months": 30,
+    "interest_rate": 5.40
+  },
+  {
+    "applicant_id": 19,
+    "name": "Gabriel Torres",
+    "age": 33,
+    "income": 71000,
+    "credit_score": 730,
+    "loan_amount_requested": 26000,
+    "loan_term_months": 48,
+    "interest_rate": 6.40
+  },
+  {
+    "applicant_id": 20,
+    "name": "Isabella Gray",
+    "age": 30,
+    "income": 60000,
+    "credit_score": 700,
+    "loan_amount_requested": 19000,
+    "loan_term_months": 36,
+    "interest_rate": 6.00
+  }
+]
